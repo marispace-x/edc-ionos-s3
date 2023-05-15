@@ -29,7 +29,7 @@ You will need the following:
 Contains the required instructions to create an EDC docker image with the IONOS S3 Extension.
 
 ### `edc-ionos-extension`
-Contains the source code of the IONOS S3 Extension.
+Contains the source code of the IONOS S3 Extension. 
 
 ### `example`
 Contains an example with a file transfer process between two S3 buckets.
